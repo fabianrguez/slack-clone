@@ -23,8 +23,8 @@ const Login = () => {
         <div className="login">
             <div className="login__container">
                 <img src={slackLogo} alt=""/>
-                <h1>Sign in to Stofaya Programmer HQ</h1>
-            <p>stofayaprogrammer.slack.com</p>
+                <h1>Sign in to Slack Clone</h1>
+            <p>A Slack clone made with React </p>
             <Button onClick={signIn}>Sign In with Google</Button>
             </div>
         </div>
